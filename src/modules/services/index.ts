@@ -21,6 +21,7 @@ import { Claude } from "./claude";
 import { Cnki } from "./cnki";
 import { CollinsDict } from "./collinsdict";
 import { DeeplFree, DeeplPro } from "./deepl";
+export { DoubaoTranslate } from "./doubaoTranslate";
 import { FreeDictionaryAPI } from "./freedictionaryapi";
 import { Gemini } from "./gemini";
 import { Google, GoogleAPI } from "./google";
