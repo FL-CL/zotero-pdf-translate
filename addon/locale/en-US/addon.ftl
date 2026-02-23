@@ -16,6 +16,7 @@ service-deeplfree=DeepL(Free Plan)
 service-deeplpro=DeepL(Pro Plan)
 service-deeplcustom=DeepLX(API)
 service-deeplx=DeepLX
+service-doubao=Doubao
 service-baidu=Baidu
 service-baidufield=Baidu Field
 service-openl=OpenL
@@ -163,3 +164,6 @@ service-nllb-dialog-serveendpoint=nllb-serve EndPoint
 service-nllb-dialog-apilabel=nllb-api Docs
 service-nllb-dialog-servelabel=nllb-serve Docs
 
+service.doubao-seed-translation = Doubao Seed Translation (Volcengine)
+service.doubao.baseUrl = Base URL (/responses)
+service.doubao.model = Model / Endpoint ID (ep-xxx)
