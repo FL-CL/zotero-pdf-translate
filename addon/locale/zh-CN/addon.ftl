@@ -16,6 +16,7 @@ service-deeplfree=DeepL(免费订阅)
 service-deeplpro=DeepL(Pro订阅)
 service-deeplcustom=DeepLX(API)
 service-deeplx=DeepLX
+service-doubao=豆包
 service-baidu=百度
 service-baidufield=百度垂直领域
 service-openl=OpenL
@@ -163,3 +164,6 @@ service-nllb-dialog-serveendpoint=nllb-serve 接口
 service-nllb-dialog-apilabel=nllb-api 文档
 service-nllb-dialog-servelabel=nllb-serve 文档
 
+service.doubao-seed-translation = Doubao Seed Translation (Volcengine)
+service.doubao.baseUrl = Base URL (/responses)
+service.doubao.model = Model / Endpoint ID (ep-xxx)
